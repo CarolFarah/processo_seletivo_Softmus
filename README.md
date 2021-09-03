@@ -159,4 +159,7 @@ Os códigos estão individualmente lançados em arquivos de extensão ".py", com
 
 - Google Collab: https://colab.research.google.com/
 - JetBrains PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/
+- Download Python 3 LTS para Windows: https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe
+- Download Python 3 LTS para Linux: https://www.python.org/downloads/release/python-397/
+- 
 - Download desse repositório: https://github.com/CarolFarah/processo_seletivo_Softmus/archive/refs/heads/main.zip
