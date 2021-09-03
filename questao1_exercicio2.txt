@@ -1,0 +1,3 @@
+FIFO (First-In First-Out) => É o conceito de fila: o primeiro elemento a entrar em uma sequência é o primeiro a sair.
+
+LIFO (Last-In First-Out) => É o conceito de pilha: o primeiro elemento a entrar em uma sequência é o último a sair.
