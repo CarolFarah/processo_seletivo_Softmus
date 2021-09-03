@@ -28,6 +28,7 @@ e-mail junto com o link do repositório.
 Neste exercício, opto por construir duas versões para avaliação também da lógica e seus recursos.
 
 ![#c5f015](https://via.placeholder.com/15/1589F0/000000?text=+) `VERSÃO 1`
+- Duas listas
 
 ![alt text](https://i.imgur.com/DDGKpwA.png)
 
@@ -36,6 +37,7 @@ Neste exercício, opto por construir duas versões para avaliação também da l
 ![alt text](https://i.imgur.com/X6OolPa.png)
 
 ![#1589F0](https://via.placeholder.com/15/c5f015/000000?text=+) `VERSÃO 2`
+- Matriz ou listas aninhadas
 
 ![alt text](https://i.imgur.com/IAClP7K.png)
 
