@@ -159,3 +159,4 @@ Os códigos estão individualmente lançados em arquivos de extensão ".py", com
 
 - Google Collab: https://colab.research.google.com/
 - JetBrains PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/
+- Download desse repositório: https://github.com/CarolFarah/processo_seletivo_Softmus/archive/refs/heads/main.zip
