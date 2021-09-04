@@ -3,7 +3,7 @@ Algoritmos pertinentes a entrega do desafio sugerido pela Softmus Tecnologia par
 
 Desenvolvido por: Ana Carolina de Oliveira Farah / e-mail: anacarolfarah@gmail.com
 
-# Descrição
+## Descrição
 Abaixo segue uma lista de exercícios utilizados para avaliar o conhecimento do candidato.
 Alguns tópicos abordarão a base da linguagem python bem como lógica de programação e
 estrutura de dados.
