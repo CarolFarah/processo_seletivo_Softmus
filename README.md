@@ -139,10 +139,18 @@ DUDUDUUUDDDDUUDDDUDDDDUUDDUDDUUUDUUUDUUDUDUDDDDDDDDD
 
 ![alt text](https://i.imgur.com/VNhjp9I.png)
 
+![#c5f015](https://via.placeholder.com/15/1589F0/000000?text=+) `SAÍDA - usando exemplo de variáveis`
+
+![alt text](https://i.imgur.com/cQnKsGt.png)
+
 ![#1589F0](https://via.placeholder.com/15/c5f015/000000?text=+) `VERSÃO 2`
 - Versão com uma única variável
 
 ![alt text](https://i.imgur.com/gVecnDU.png)
+
+![#1589F0](https://via.placeholder.com/15/c5f015/000000?text=+) `SAÍDA - usando exemplo de variáveis`
+
+![alt text](https://i.imgur.com/0ItriST.png)
 
 # INFORMAÇÕES COMPLEMENTARES 
 
